@@ -1,5 +1,4 @@
-# ARCA-GS
-### 3D Gaussian Splatting for Arbitrary Resolutions with Compact Proxy Anchors
+# 3D Gaussian Splatting for Arbitrary Resolutions with Compact Proxy Anchors
 
 > Accepted at CVPR 2026
 
