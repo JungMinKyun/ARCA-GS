@@ -8,7 +8,6 @@ Official repository for our CVPR 2026 paper on resolution-adaptive 3D Gaussian S
 - Project page: Coming soon
 - Paper: Coming soon
 - Code: Coming soon
-- Checkpoints: Coming soon
 
 ## Overview
 ARCA-GS is a framework for arbitrary-resolution 3D Gaussian Splatting with compact proxy anchors.
